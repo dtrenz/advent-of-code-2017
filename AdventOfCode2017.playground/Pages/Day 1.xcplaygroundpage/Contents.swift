@@ -1,5 +1,5 @@
 /*:
-[Previous](@previous)
+[Previous](@previous) | [Next Day](@next)
  
 # Day 1: Inverse Captcha
 
